@@ -1,0 +1,30 @@
+# Currency-converter
+You can convert:
+USD
+EUR
+GBP
+INR
+DKK
+BGN
+CAD
+JPY
+HUF
+MYR
+SEK
+SGD
+HKD
+AUD
+CHF
+KRW
+CNY
+TRY
+HRK
+NZD
+THB
+NOK
+MXN
+CZK
+BRL
+PLN
+PHP
+ZAR
